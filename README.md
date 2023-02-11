@@ -16,6 +16,12 @@ in this 3rd assignment  i started with a given starter code
 ## usage
 the website contain HTML, CSS and JavaScript and has been pushed to github repostiry.
 
+![Getting Started](./assets/screenshot/deployed%202023-02-11%20164042.png)
+
+## deployed link
+https://melhelow.github.io/03-hw/
+
+
 ## credits
 
 stackoverflow, google, bootcamp,studygroup
