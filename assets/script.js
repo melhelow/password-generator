@@ -44,7 +44,7 @@ function generatePassword() {
 
 if (!includeCharachters && !includeLower && !includeUpper && !IncludeNumbers) {
   // alert(" you must include one charachter type")
-  alert("your password should include one charachter type,lowercase or upper case and number");
+  alert("your password should include one charachter type or lowercase or upper case or number");
   return "";
 }
  
