@@ -44,14 +44,10 @@ function generatePassword() {
 
 if (!includeCharachters && !includeLower && !includeUpper && !IncludeNumbers) {
   // alert(" you must include one charachter type")
+  alert("your password should include one charachter type");
   return "";
 }
-
-if (Number(CharTotal) < 8 || Number(CharTotal) > 128) {
-  // alert("Password must be between 8 and 128 characters.");
-  return "";
-}
-  
+ 
 if (includeUpper === true) {
   charBank = upperCases.concat (upperCases)
 
