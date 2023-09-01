@@ -19,7 +19,7 @@ the website contain HTML, CSS and JavaScript and has been pushed to github repos
 ![Getting Started](./assets/screenshot/deployed%202023-02-11%20164042.png)
 
 ## deployed link
-https://melhelow.github.io/03-hw/
+https://melhelow.github.io/password-generator/
 
 
 ## credits
